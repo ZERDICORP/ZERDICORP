@@ -1,7 +1,7 @@
 # Hi.
 ### What do I want?
-_Know a lot, be able to do a lot._
+`Know a lot, be able to do a lot.`
 ### What I have?
-_Lots of knowledge, lots of skills._
+`Lots of knowledge, lots of skills.`
 
-So, be happy :hand:
+Be happy :hand:
