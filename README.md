@@ -1,1 +1,43 @@
-![GOOGOG (4)](https://user-images.githubusercontent.com/56264511/175832688-c780272e-cd54-413c-9cce-647e3cf443bb.svg)
+```java
+import java.util.HashMap;
+
+public class Main {
+  public static void main(String[] args) {
+    String greetings = "Hi there!";
+    String aboutMe = "I'm a self-taught programmer " +
+      "with [N] yeras of coding experience."; // N > 5
+
+    String[] toolStack = new String[]{
+      "Java",
+      "Git",
+      "Nginx",
+      "Docker",
+      "Linux (arch btw)",
+      "Brain :3",
+      "etc."
+    };
+
+    String[] softSkills = new String[]{
+      "Perseverance",
+      "Desire to develop",
+      "Striving to be better",
+      "Sociability",
+      "Wild curiosity about everything I don't know yet"
+    };
+
+    String[] plans = new String[]{
+      "Become an advanced java developer",
+      "Create something new and cool",
+      "Meet interesting people",
+      "Make the world a better place",
+      "Keep doing what i like until my heart stops"
+    };
+
+    HashMap<String, String> contacts = new HashMap<>();
+    contacts.put("telegram", "https://t.me/ZERDICORP");
+    contacts.put("gmail", "nikolaianikin2002@gmail.com");
+
+    // Be happy!
+  }
+}
+```
