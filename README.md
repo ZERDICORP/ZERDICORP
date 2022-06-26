@@ -1,11 +1,1 @@
-# Hi.
-### What do I want?
-```
-Know a lot, be able to do a lot.
-```
-### What I have?
-```
-Lots of knowledge, lots of skills.
-```
-
-##### Be happy :hand:
+![](https://user-images.githubusercontent.com/56264511/175832487-57833e80-503c-45f6-a5f5-c6d0f27b6289.svg)
