@@ -9,6 +9,7 @@ public class Main {
 
     String[] toolStack = new String[]{
       "Java",
+      "Maven",
       "Git",
       "Nginx",
       "Docker",
