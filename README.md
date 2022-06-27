@@ -33,7 +33,7 @@ public class Main {
       "Keep doing what i like until my heart stops"
     };
 
-    HashMap<String, String> contacts = new HashMap<>();
+    Map<String, String> contacts = new HashMap<>();
     contacts.put("telegram", "https://t.me/ZERDICORP");
     contacts.put("gmail", "nikolaianikin2002@gmail.com");
 
