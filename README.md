@@ -5,7 +5,7 @@ public class Main {
   public static void main(String[] args) {
     String greetings = "Hi there!";
     String aboutMe = "I'm a self-taught programmer " +
-      "with [N] yeras of coding experience."; // N > 5
+      "with [N] years of coding experience."; // N > 5
 
     String[] toolStack = new String[]{
       "Java",
