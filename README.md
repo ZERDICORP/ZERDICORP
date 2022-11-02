@@ -1,45 +1,38 @@
-```java
-import java.util.HashMap;
+```scala
+object Main extends App {
+  val greetings = "Hi there!"
+  val aboutMe = "I'm a self-taught programmer with 5+ years of coding experience."
 
-public class Main {
-  public static void main(String[] args) {
-    String greetings = "Hi there!";
-    String aboutMe = "I'm a self-taught programmer " +
-      "with [N] years of coding experience."; // N > 5
+  val toolStack = Array[String](
+    "Scala", "SBT",
+    "Java", "Maven",
+    "Python (automation scripts)",
+    "SQL", "PostgreSQL", "Liquibase",
+    "Git", "Nginx", "Docker", "Linux (arch btw)",
+    "etc."
+  )
 
-    String[] toolStack = new String[]{
-      "Java",
-      "Maven",
-      "SQL",
-      "Git",
-      "Nginx",
-      "Docker",
-      "Linux (arch btw)",
-      "Brain :3",
-      "etc."
-    };
+  val softSkills = Array[String](
+    "Perseverance",
+    "Desire to develop",
+    "Striving to be better",
+    "Sociability",
+    "Wild curiosity about everything I don't know yet"
+  )
 
-    String[] softSkills = new String[]{
-      "Perseverance",
-      "Desire to develop",
-      "Striving to be better",
-      "Sociability",
-      "Wild curiosity about everything I don't know yet"
-    };
+  val plans = Array[String](
+    "Become an advanced scala developer",
+    "Create something new and cool",
+    "Meet interesting people",
+    "Make the world a better place",
+    "Keep doing what i like until my heart stops"
+  )
 
-    String[] plans = new String[]{
-      "Become an advanced java developer",
-      "Create something new and cool",
-      "Meet interesting people",
-      "Make the world a better place",
-      "Keep doing what i like until my heart stops"
-    };
+  val contacts = Map[String, String](
+    "telegram" -> "https://t.me/ZERDICORP",
+    "gmail" -> "nikolaianikin2002@gmail.com"
+  )
 
-    Map<String, String> contacts = new HashMap<>();
-    contacts.put("telegram", "https://t.me/ZERDICORP");
-    contacts.put("gmail", "nikolaianikin2002@gmail.com");
-
-    // Be happy!
-  }
+  // Be happy!
 }
 ```
